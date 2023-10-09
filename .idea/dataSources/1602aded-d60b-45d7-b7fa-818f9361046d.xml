@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataSource name="MySQL - sajtphp1@localhost">
+  <database-model serializer="dbm" dbms="MARIADB" family-id="MARIADB" format-version="4.20">
+    <root id="1">
+      <ServerVersion>10.4.11</ServerVersion>
+      <DefaultEngine>InnoDB</DefaultEngine>
+      <DefaultCasing>lower/lower</DefaultCasing>
+    </root>
+    <schema id="2" parent="1" name="aud">
+      <Collation>utf8_unicode_ci</Collation>
+    </schema>
+    <schema id="3" parent="1" name="brzi">
+      <Collation>utf8_unicode_ci</Collation>
+    </schema>
+    <schema id="4" parent="1" name="cruddb">
+      <Collation>utf8_unicode_ci</Collation>
+    </schema>
+    <schema id="5" parent="1" name="information_schema">
+      <Collation>utf8_general_ci</Collation>
+    </schema>
+    <schema id="6" parent="1" name="jul2018">
+      <Collation>utf8mb4_general_ci</Collation>
+    </schema>
+    <schema id="7" parent="1" name="lakivezba">
+      <Collation>utf8_unicode_ci</Collation>
+    </schema>
+    <schema id="8" parent="1" name="mysql">
+      <Collation>utf8mb4_general_ci</Collation>
+    </schema>
+    <schema id="9" parent="1" name="performance_schema">
+      <Collation>utf8_general_ci</Collation>
+    </schema>
+    <schema id="10" parent="1" name="php1_phpvezbe">
+      <Collation>utf8mb4_unicode_ci</Collation>
+    </schema>
+    <schema id="11" parent="1" name="php_prodaja_udzbenika">
+      <Collation>utf8_unicode_ci</Collation>
+    </schema>
+    <schema id="12" parent="1" name="php_zdravstveni_sistem">
+      <Collation>utf8mb4_general_ci</Collation>
+    </schema>
+    <schema id="13" parent="1" name="phpmyadmin">
+      <Collation>utf8_bin</Collation>
+    </schema>
+    <schema id="14" parent="1" name="phppraktikum1n">
+      <Collation>utf8_unicode_ci</Collation>
+    </schema>
+    <schema id="15" parent="1" name="sajtphp1">
+      <Current>1</Current>
+      <Collation>utf8_unicode_ci</Collation>
+    </schema>
+    <schema id="16" parent="1" name="sajtphp2">
+      <Collation>utf8mb4_general_ci</Collation>
+    </schema>
+    <schema id="17" parent="1" name="shop">
+      <Collation>utf8_unicode_ci</Collation>
+    </schema>
+    <schema id="18" parent="1" name="ssajtphp2">
+      <Collation>utf8mb4_general_ci</Collation>
+    </schema>
+    <schema id="19" parent="1" name="test">
+      <Collation>latin1_swedish_ci</Collation>
+    </schema>
+    <schema id="20" parent="1" name="vezbanje">
+      <Collation>utf8mb4_unicode_ci</Collation>
+    </schema>
+  </database-model>
+</dataSource>
